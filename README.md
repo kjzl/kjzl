@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-My name is Kajus and I'm a 21 year old student at 42berlin.
-<!--
-**kjzl/kjzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kajus and I'm 21 years old.
+I am currently studying at 42berlin.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on a few personal side projects
+- 📖 It all began with Java in 2018. Since then I learnt Dart/Flutter in 2022, Rust in 2023 and at the end of 2023 during my piscine at 42berlin I began to learn C/(C++)
 - 🌱 I’m currently learning about distributed systems, serverless architecture, Rust, C and Flutter
+- 🔭 I’m currently working on a few personal side projects
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
