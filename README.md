@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kajus and I'm 21 years old.
+My name is Kajus and I'm 22 years old.
 I am currently studying software engineering at [42berlin](https://42berlin.de/) (core curriculum ~20% done).
 
 - 🌱 I’m currently learning about distributed systems, serverless architecture, Rust, C and Flutter
